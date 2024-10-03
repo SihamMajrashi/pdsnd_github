@@ -19,6 +19,40 @@ to present statistics associated with each city.
    * chicago.csv
    * new_york_city.csv
    * washington.csv
+  
+### Dependencies
+* [Pandas](https://pandas.pydata.org/docs/user_guide/index.html)
+
+
+If you use _conda_:
+
+    conda install -c conda-forge pandas
+
+If you use _pip_:
+
+      pip install pandas
+
+* [Numpy](https://numpy.org/)
+
+If you use _conda_:
+
+    conda install numpy
+
+
+If you use _pip_: 
+
+    pip install numpy
+
+* [Time](https://docs.python.org/3/library/time.html)
+
+If you use _conda_:
+
+    conda install time
+If you use _pip_:
+
+    pip install time
+
+
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
